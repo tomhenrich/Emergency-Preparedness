@@ -4,7 +4,7 @@
 - [ ] Emergency evac bags (2)
 - [ ] Backpack with dog stuff
 - [ ] Wallets/purse & keys
-- [ ] Phones (chargers are in evac bags)
+- [ ] Phones
 - [ ] Medications
 - [ ] Fireproof document bag
  
@@ -12,49 +12,48 @@
 - [ ] Food & water
   - [ ] Bottled water, as much as possible
 - [ ] Clothes
-  - [ ] If cold weather: coats, hats, gloves
-  - [ ] If rushed: throw clothes on bed and wrap up in the sheets
-- [ ] **Devices**
+  - [ ] _If cold weather:_ coats, hats, gloves
+  - [ ] _If rushed:_ throw clothes on bed and wrap up in the sheets
+- [ ] Devices
   - [ ] Computers
   - [ ] Portable chargers (with USB-C out)
-  - [ ] NAS (if possible) + power cord
+  - [ ] NAS + power cord _(if possible)_
 - [ ] Fire extinguisher
-- [ ] If cold weather: blankets
-- [ ] **For dog(s)**
+- [ ] _If cold weather:_ blankets
+- [ ] For dog(s)
   - [ ] More dog food
   - [ ] Medications/supplements
 
 ## 🟡 With _1 hour or more notice_, add:
-- [ ] If time, mount car’s cargo basket:
-  - [ ] Camping tote (sleeping bags + pad)
-- [ ] If time, mount car’s roof carrier:
-  - [ ] Dog kennel(s)
-- [ ] **Food & water**
+- [ ] **If time permits:**
+  - [ ] Mount car’s cargo basket with camping tote (sleeping bags + pad)
+  - [ ] Mount car’s roof basket with dog kennel(s)
+- [ ] Food & water
   - [ ] Disposable plates, cutlery, cups
   - [ ] Granola bars, chips, etc
   - [ ] Small cooler with ice packs
   - [ ] Optional: filter (Sawyer Mini or LifeStraw)
-- [ ] **For dog(s)**
+- [ ] For dog(s)
   - [ ] Bed
   - [ ] Treats
-- [ ] **Devices** (if time permits)
-  - [ ] Charge everything while possible
-  - [ ] Kindles
-  - [ ] Headphones w/ cables
+- [ ] Devices (if time permits)  
+  - ⚡ Charge everything while possible
+  - [ ] Kindles/e-readers
+  - [ ] Headphones + aux cables
   - [ ] Hard drives
   - [ ] Walkie-talkie set
 - [ ] Pillows, blankets
 - [ ] Towels
 - [ ] Box of kitty litter (cleanup, traction, etc)
 - [ ] Crowbar + metal shovel
-- [ ] Tarp
+- [ ] Tarp(s)
 - [ ] **Prep the house**
   - [ ] Close windows
-  - [ ] Take video of each room’s contents;
-    - [ ] Open drawers if time permits
+  - [ ] Take video/photos of each room’s contents; open drawers if time permits
   - [ ] Unplug electronics (TVs, PCs, etc)
-  - [ ] **In case of approaching fire: 🔥**
-    - [ ] Open water lines to spigots
-    - [ ] Attach hoses
-    - [ ] Move propane tanks away
-    - [ ] Seal exterior vents with duct tape
+
+### 🔥 In case of approaching fire:
+  - [ ] Open water lines to spigots
+  - [ ] Attach hoses
+  - [ ] Move propane tanks away
+  - [ ] Seal exterior vents with duct tape
