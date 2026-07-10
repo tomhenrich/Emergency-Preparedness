@@ -2,11 +2,11 @@
 
 ## 🔴 With _15 minutes or less_ notice: ("JUST GET OUT")
 - [ ] Emergency evac bags (2)
+- [ ] Fireproof document bag
 - [ ] Backpack with dog stuff
 - [ ] Wallets/purse & keys
 - [ ] Phones
 - [ ] Medications
-- [ ] Fireproof document bag
  
 ## 🟠 With _30 minutes notice_, add:
 - [ ] Food & water
@@ -23,11 +23,14 @@
 - [ ] For dog(s)
   - [ ] More dog food
   - [ ] Medications/supplements
+- [ ] If time permits: take video/photos of each room's contents; open drawers if time permits
+
 
 ## 🟡 With _1 hour or more notice_, add:
 - [ ] **If time permits:**
-  - [ ] Mount car’s cargo basket with camping tote (sleeping bags + pad)
-  - [ ] Mount car’s roof basket with dog kennel(s)
+  - [ ] Move car to street (or in driveway facing out)
+  - [ ] Mount car's cargo basket with camping tote (sleeping bags + pad)
+  - [ ] Mount car's roof basket with dog kennel(s)
 - [ ] Food & water
   - [ ] Disposable plates, cutlery, cups
   - [ ] Granola bars, chips, etc
@@ -49,11 +52,10 @@
 - [ ] Tarp(s)
 - [ ] **Prep the house**
   - [ ] Close windows
-  - [ ] Take video/photos of each room’s contents; open drawers if time permits
   - [ ] Unplug electronics (TVs, PCs, etc)
 
 ### 🔥 In case of approaching fire:
-  - [ ] Open water lines to spigots
+  - [ ] Open basement valves to hose spigots
   - [ ] Attach hoses
   - [ ] Move propane tanks away
   - [ ] Seal exterior vents with duct tape
