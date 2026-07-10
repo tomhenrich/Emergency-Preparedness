@@ -15,4 +15,4 @@
 - [ ] Water filter
 - [ ] Batteries
 	- [ ] AA
-	- [ ] AA
+	- [ ] AAA
