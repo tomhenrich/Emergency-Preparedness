@@ -41,6 +41,7 @@
 - [ ] Marriage certificate
 - [ ] House purchase paperwork
 - [ ] Proof of home insurance
+- [ ] Vehicle titles
 - [ ] Cash
 
 ## Bag for dogs
@@ -72,6 +73,8 @@
 ### Always in car:
 - [ ] Jumper cables
 - [ ] Jumpstart battery pack
+- [ ] Tire pressure gauge
+- [ ] Window breaker/seatbelt cutter
 - [ ] Knee pads
 - [ ] Flares
 - [ ] Safety glasses
