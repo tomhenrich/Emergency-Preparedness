@@ -8,8 +8,8 @@
   - [ ] Deodorant
   - [ ] Hand sanitizer
   - [ ] Wet wipes
-  - [ ] Toilet paper (1 roll)
-  - [ ] Waste bags (1 roll)
+  - [ ] Toilet paper roll
+  - [ ] Waste bags roll
   - [ ] Gold bond/anti-chafe
 - [ ] Water bottle (Nalgene)
   - [ ] Electrolyte powder packets
@@ -17,7 +17,7 @@
   - [ ] 30W USB-C charger block
   - [ ] USB-C to USB-micro cable
   - [ ] USB-C to USB-C cable
-  - [ ] Add portable battery when leaving 
+  - [ ] **Add portable battery when leaving**
 - [ ] Flashlight + AA Batteries (3 in baggie)
 - [ ] Breathing
   - [ ] N95 masks (2)
