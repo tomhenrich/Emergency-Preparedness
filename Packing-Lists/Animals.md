@@ -6,3 +6,4 @@
 - [ ] Leash
 - [ ] Waste bags
 - [ ] Muzzle
+- [ ] Add bag of food if time permits
